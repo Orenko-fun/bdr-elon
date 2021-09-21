@@ -1,0 +1,7 @@
+<svg id="button-about" xmlns="http://www.w3.org/2000/svg" width="182" height="60" viewBox="0 0 182 60">
+  <g id="Rectangle_4" data-name="Rectangle 4" fill="none" stroke="#d11212" stroke-width="2">
+    <rect width="182" height="60" stroke="none"/>
+    <rect x="1" y="1" width="180" height="58" fill="none"/>
+  </g>
+  <text id="אודותינו" transform="translate(135 39)" fill="#d11212" font-size="25" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.009em"><tspan x="-87.146" y="0">אודותינו</tspan></text>
+</svg>

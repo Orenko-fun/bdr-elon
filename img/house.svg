@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.076" height="129.302" viewBox="0 0 105.076 129.302">
+  <g id="house" transform="translate(0.707 0.707)">
+    <line id="Line_18" data-name="Line 18" x2="104" transform="translate(0 127.595)" fill="none" stroke="#d11212" stroke-width="2"/>
+    <path id="Layer_1" d="M70.614,6.864V19.077L53.124,1.586,1.293,53.417l3.091,3.091,2.827-2.827v51.566H99.037V53.682l2.827,2.827,3.091-3.091L90.291,38.753V6.864Zm4.373,4.373H85.919V34.381L74.987,23.449ZM42.192,100.875V65.894H64.056v34.981Zm52.472,0H68.428V61.522H37.82v39.354H11.584V49.309l41.54-41.54,41.54,41.54Z" transform="translate(-1.293 -1.586)" fill="#919191" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
